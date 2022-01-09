@@ -1,13 +1,13 @@
 import React from "react";
 import { render } from 'react-dom';
-import { BrowserRouter, Route, Switch } from "react-router-dom";
+import { HashRouter, Route, Switch } from "react-router-dom";
 import Main from "./components/main";
 import Filter from "./components/filter";
 import Mypage from "./components/mypage";
 import Temp from "./components/temp_filter";
 
 const App = () => (
-  <BrowserRouter>
+  <HashRouter>
     <Switch>
       <Route path="/filter" component = {Filter} />
       <Route path="/visual" component = {Temp} />
@@ -15,7 +15,7 @@ const App = () => (
       <Route path="/mypage" component = {Mypage} />
       {/* <Route path="/temp" component = {Temp} /> */}
     </Switch>
-  </BrowserRouter>
+  </HashRouter>
 );
 
 render(<App />, document.getElementById('root'));
