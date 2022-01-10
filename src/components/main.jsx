@@ -77,7 +77,7 @@ const useStyles = makeStyles(theme => ({
 
     return (
         <React.Fragment>
-            <img src={LOGO_Full} alt = "" className='logo' onClick={() => {window.location.href = "/perdict/"}}/>
+            <img src={LOGO_Full} alt = "" className='logo' onClick={() => {window.location.href = "# "}}/>
             <div id="back-to-top-anchor" />
             <NavBar/>
             <img src={MAIN_PAGE} alt = "" className='main'/>
