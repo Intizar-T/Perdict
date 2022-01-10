@@ -135,7 +135,7 @@ export default function Filter(props) {
     return (
         <React.Fragment>
         <div id="back-to-top-anchor" />
-        <img src={LOGO_Full} alt = "" className='logo' onClick={() => {window.location.href = "/"}}/>
+        <img src={LOGO_Full} alt = "" className='logo' onClick={() => {window.location.href = "/perdict/"}}/>
         <NavBar2/>
         <div className="filtertitle">FIND YOUR PERFUME</div>
         <Overlay/>
