@@ -67,7 +67,7 @@ export class NavBar extends Component {
                         <li><Link to="about" spy={true} smooth={true}>ABOUT</Link></li>
                         <li><Link to="service" spy={true} smooth={true}>SERVICE</Link></li>
                         <li><Link to="join" spy={true} smooth={true}>JOIN</Link></li>
-                        <li><a href="./filter">DISCOVER</a></li>
+                        <li><a href="/perdict/#/filter/">DISCOVER</a></li>
                         <ul style={{float: "right"}}>
                             <li onClick={signInWithGoogle} className="signin" href="# "><a href="# ">SIGN IN WITH GOOGLE</a></li>
                         </ul>
