@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/perdict/static/css/main.8b78f7cf.chunk.css",
-    "main.js": "/perdict/static/js/main.10632a67.chunk.js",
-    "main.js.map": "/perdict/static/js/main.10632a67.chunk.js.map",
+    "main.js": "/perdict/static/js/main.8b225c5a.chunk.js",
+    "main.js.map": "/perdict/static/js/main.8b225c5a.chunk.js.map",
     "runtime-main.js": "/perdict/static/js/runtime-main.8ce7aa45.js",
     "runtime-main.js.map": "/perdict/static/js/runtime-main.8ce7aa45.js.map",
     "static/css/2.a4e45bde.chunk.css": "/perdict/static/css/2.a4e45bde.chunk.css",
@@ -72,6 +72,6 @@
     "static/css/2.a4e45bde.chunk.css",
     "static/js/2.698b4117.chunk.js",
     "static/css/main.8b78f7cf.chunk.css",
-    "static/js/main.10632a67.chunk.js"
+    "static/js/main.8b225c5a.chunk.js"
   ]
 }
