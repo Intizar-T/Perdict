@@ -10,4 +10,4 @@ This website was hosted to https://intizar-t.github.io/perdict/#/ via Github Pag
 
 Here are some screenshots to demonstrate how signing in and personalizing your experience on Perdict looks like. After signing in and choosing your perfumes of interest, this is what you see on your page:
 
-!(https://drive.google.com/uc?export=view&id=1NTxZKXWv-cuRixgSNPKwyFLADzaTWDP3)
+![My Page](https://drive.google.com/uc?export=view&id=1NTxZKXWv-cuRixgSNPKwyFLADzaTWDP3)
