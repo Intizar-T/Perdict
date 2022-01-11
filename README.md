@@ -11,3 +11,9 @@ This website was hosted to https://intizar-t.github.io/perdict/#/ via Github Pag
 Here are some screenshots to demonstrate how signing in and personalizing your experience on Perdict looks like. After signing in and choosing your perfumes of interest, this is what you see on your page:
 
 ![My Page](https://drive.google.com/uc?export=view&id=1NTxZKXWv-cuRixgSNPKwyFLADzaTWDP3)
+
+One of the cool features on this page is a user can select multiple perfumes and compare their scents on a radar chart below the list:
+
+![Select Multiple Perfumes](https://drive.google.com/uc?export=view&id=1oSlEOLiqGIqkrw1jUi5ZK_uExIJZzs-C)
+
+![Compare Multiple Perfume Scents](https://drive.google.com/uc?export=view&id=16Aioz-mC8Zv2KWMR1oNeTOpO_yiY0PI1)
