@@ -32,7 +32,7 @@ import Perfume29 from "../perfume_pictures/350x250/Perfume29.png"
 const perfume_info = [
     {
       "name": "CK One",
-      "pic_name": <img className = "perfume" src={Perfume1} alt = "" onClick = {() => {localStorage.setItem('perfume_id', 0); window.location.href = "perdict/#/visual/"}}/>,
+      "pic_name": <img className = "perfume" src={Perfume1} alt = "" onClick = {() => {localStorage.setItem('perfume_id', 0); window.location.href = "/perdict/#/visual/"}}/>,
       "brand": "Calvin Klein",
       "price": [27.00, 22.00],
       "volume": [100, 50],
@@ -41,7 +41,7 @@ const perfume_info = [
     },
     {
       "name": "English Pear & Freesia",
-      "pic_name": <img className = "perfume" src={Perfume2} alt = "" onClick = {() => {localStorage.setItem('perfume_id', 1); window.location.href = "perdict/#/visual/"}}/>,
+      "pic_name": <img className = "perfume" src={Perfume2} alt = "" onClick = {() => {localStorage.setItem('perfume_id', 1); window.location.href = "/perdict/#/visual/"}}/>,
       "brand": "Jo Malone London",
       "price": [53.00, 29.00],
       "volume": [250, 100],
