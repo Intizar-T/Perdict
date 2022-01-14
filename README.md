@@ -16,4 +16,5 @@ One of the cool features on this page is a user can select multiple perfumes and
 
 ![Select Multiple Perfumes](https://drive.google.com/uc?export=view&id=1oSlEOLiqGIqkrw1jUi5ZK_uExIJZzs-C)
 
+Compare multiple perfume scents on a single radar chart:
 ![Compare Multiple Perfume Scents](https://drive.google.com/uc?export=view&id=16Aioz-mC8Zv2KWMR1oNeTOpO_yiY0PI1)
